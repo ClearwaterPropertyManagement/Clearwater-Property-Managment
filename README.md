@@ -1,1 +1,1 @@
-# Clearwater-Property-Managment
+# Clearwater-Property-Management
